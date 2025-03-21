@@ -520,5 +520,3 @@ iOSInjectionProject/
 build/
 /bindings/c/*.h
 /bindings/c/tree-sitter-*.pc
-
-src/tree_sitter/
